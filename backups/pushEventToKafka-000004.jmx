@@ -8,7 +8,7 @@
     </TestPlan>
     <hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="线程组">
-        <intProp name="ThreadGroup.num_threads">10</intProp>
+        <intProp name="ThreadGroup.num_threads">20</intProp>
         <intProp name="ThreadGroup.ramp_time">1</intProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
@@ -72,7 +72,7 @@
         <intProp name="calcMode">1</intProp>
         <doubleProp>
           <name>throughput</name>
-          <value>12000.0</value>
+          <value>6000.0</value>
           <savedValue>0.0</savedValue>
         </doubleProp>
       </ConstantThroughputTimer>
