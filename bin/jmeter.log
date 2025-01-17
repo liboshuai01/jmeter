@@ -1,36 +1,36 @@
-2025-01-17 16:32:38,706 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
-2025-01-17 16:32:38,718 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2025-01-17 16:32:38,718 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: Version 5.6.3
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: java.version=1.8.0_432-432
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: os.name=Windows 11
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: os.arch=amd64
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: os.version=10.0
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: file.encoding=GBK
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: java.awt.headless=null
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: Max memory     =4294967296
-2025-01-17 16:32:38,723 INFO o.a.j.JMeter: Available Processors =18
-2025-01-17 16:32:38,726 INFO o.a.j.JMeter: Default Locale=English (EN)
-2025-01-17 16:32:38,726 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
-2025-01-17 16:32:38,726 INFO o.a.j.JMeter: JMeterHome=C:\Me\Software\jmeter
-2025-01-17 16:32:38,726 INFO o.a.j.JMeter: user.dir  =C:\Me\Software\jmeter\bin
-2025-01-17 16:32:38,727 INFO o.a.j.JMeter: PWD       =C:\Me\Software\jmeter\bin
-2025-01-17 16:32:38,733 INFO o.a.j.JMeter: IP: 192.168.113.244 Name: DESKTOP-C63MH2B FullName: windows
-2025-01-17 16:32:38,746 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2025-01-17 16:32:38,872 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
-2025-01-17 16:33:02,516 INFO o.a.j.s.FileServer: Default base='C:\Me\Software\jmeter\bin'
-2025-01-17 16:33:02,519 INFO o.a.j.g.a.Load: Loading file: C:\Me\Software\jmeter\conf\pushEventToKafka.jmx
-2025-01-17 16:33:02,519 INFO o.a.j.s.FileServer: Set new base='C:\Me\Software\jmeter\conf'
-2025-01-17 16:33:02,600 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2025-01-17 16:33:02,610 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2025-01-17 16:33:02,611 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2025-01-17 16:33:02,613 INFO o.a.j.s.SaveService: Loading file: C:\Me\Software\jmeter\conf\pushEventToKafka.jmx
-2025-01-17 16:33:02,639 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-01-17 16:33:02,639 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-01-17 16:33:02,639 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-01-17 16:33:02,639 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-01-17 16:33:02,639 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2025-01-17 16:33:02,639 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2025-01-17 16:33:02,822 INFO o.a.j.s.FileServer: Set new base='C:\Me\Software\jmeter\conf'
+2025-01-17 16:44:31,288 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2025-01-17 16:44:31,299 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-01-17 16:44:31,300 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: Version 5.6.3
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: java.version=1.8.0_432-432
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: os.name=Windows 11
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: os.arch=amd64
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: os.version=10.0
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: file.encoding=GBK
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: java.awt.headless=null
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: Max memory     =4294967296
+2025-01-17 16:44:31,305 INFO o.a.j.JMeter: Available Processors =18
+2025-01-17 16:44:31,308 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-01-17 16:44:31,308 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2025-01-17 16:44:31,308 INFO o.a.j.JMeter: JMeterHome=C:\Me\Software\jmeter
+2025-01-17 16:44:31,308 INFO o.a.j.JMeter: user.dir  =C:\Me\Software\jmeter\bin
+2025-01-17 16:44:31,308 INFO o.a.j.JMeter: PWD       =C:\Me\Software\jmeter\bin
+2025-01-17 16:44:31,314 INFO o.a.j.JMeter: IP: 192.168.113.244 Name: DESKTOP-C63MH2B FullName: windows
+2025-01-17 16:44:31,328 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-01-17 16:44:31,450 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2025-01-17 16:44:37,189 INFO o.a.j.s.FileServer: Default base='C:\Me\Software\jmeter\bin'
+2025-01-17 16:44:37,191 INFO o.a.j.g.a.Load: Loading file: C:\Me\Software\jmeter\conf\pushEventToKafka.jmx
+2025-01-17 16:44:37,191 INFO o.a.j.s.FileServer: Set new base='C:\Me\Software\jmeter\conf'
+2025-01-17 16:44:37,271 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-01-17 16:44:37,281 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-01-17 16:44:37,282 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-01-17 16:44:37,283 INFO o.a.j.s.SaveService: Loading file: C:\Me\Software\jmeter\conf\pushEventToKafka.jmx
+2025-01-17 16:44:37,308 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-01-17 16:44:37,308 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-01-17 16:44:37,309 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-01-17 16:44:37,309 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-01-17 16:44:37,309 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-01-17 16:44:37,309 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-01-17 16:44:37,489 INFO o.a.j.s.FileServer: Set new base='C:\Me\Software\jmeter\conf'
