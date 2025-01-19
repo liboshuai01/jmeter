@@ -1,2 +1,4 @@
 .idea
 jmeter.iml
+bin/jmeter.log
+backups/**
