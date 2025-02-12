@@ -20,7 +20,7 @@
         </elementProp>
       </ThreadGroup>
       <hashTree>
-        <ConfigTestElement guiclass="HttpDefaultsGui" testclass="ConfigTestElement" testname="HTTP请求默认值" enabled="true">
+        <ConfigTestElement guiclass="HttpDefaultsGui" testclass="ConfigTestElement" testname="HTTP请求默认值">
           <stringProp name="HTTPSampler.domain">docker</stringProp>
           <stringProp name="HTTPSampler.port">48881</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
@@ -33,7 +33,7 @@
         <hashTree/>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP请求">
           <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-          <stringProp name="HTTPSampler.path">/slr_local.gif?${data}</stringProp>
+          <stringProp name="HTTPSampler.path">/slr_event_local.gif?${data}</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
@@ -44,7 +44,7 @@
         </HTTPSamplerProxy>
         <hashTree/>
       </hashTree>
-      <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV 数据文件设置">
+      <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV 数据文件设置" enabled="true">
         <stringProp name="delimiter">\n</stringProp>
         <stringProp name="fileEncoding">UTF-8</stringProp>
         <stringProp name="filename">C:/Me/Temp/mock/event.log</stringProp>
@@ -56,7 +56,7 @@
         <stringProp name="variableNames">data</stringProp>
       </CSVDataSet>
       <hashTree/>
-      <ConstantThroughputTimer guiclass="TestBeanGUI" testclass="ConstantThroughputTimer" testname="常数吞吐量定时器">
+      <ConstantThroughputTimer guiclass="TestBeanGUI" testclass="ConstantThroughputTimer" testname="常数吞吐量定时器" enabled="true">
         <intProp name="calcMode">1</intProp>
         <doubleProp>
           <name>throughput</name>
